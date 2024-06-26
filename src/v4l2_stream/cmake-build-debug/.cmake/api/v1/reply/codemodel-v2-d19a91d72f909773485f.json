@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-7438c54fdc195a03f839.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "v4l2_stream",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-c37f1558d9bac44f6a6a.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "v4l2_stream_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-v4l2_stream_node-Release-b3fccb4e2db58089c262.json",
+					"name" : "v4l2_stream_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "v4l2_stream_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-v4l2_stream_uninstall-Release-4ce774fe8779c0b45639.json",
+					"name" : "v4l2_stream_uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/xu/ZME/zme_BirdView/v4l2_stream/src/v4l2_stream/cmake-build-debug",
+		"source" : "/home/xu/ZME/zme_BirdView/v4l2_stream/src/v4l2_stream"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
