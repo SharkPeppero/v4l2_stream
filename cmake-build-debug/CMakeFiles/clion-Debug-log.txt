@@ -1,0 +1,12 @@
+/opt/CLion-2023.3.2/clion-2023.3.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/CLion-2023.3.2/clion-2023.3.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/wting/A_jianbin/v4l2_stream/src/v4l2_stream -B /home/wting/A_jianbin/v4l2_stream/src/v4l2_stream/cmake-build-debug
+SOURCE_DIR's Version is:/home/wting/A_jianbin/v4l2_stream/src
+WORKSPACE_DIR's Version is:/home/wting/A_jianbin/v4l2_stream
+功能包路径: /home/wting/A_jianbin/v4l2_stream/src
+工作空间路径: /home/wting/A_jianbin/v4l2_stream
+ROOT_DIR: /home/wting/A_jianbin/v4l2_stream/
+-- yaml-cpp version: 0.6.2
+-- OpenCV's Version is:4.2.0
+-- current computer architecture is x86_64
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/wting/A_jianbin/v4l2_stream/src/v4l2_stream/cmake-build-debug

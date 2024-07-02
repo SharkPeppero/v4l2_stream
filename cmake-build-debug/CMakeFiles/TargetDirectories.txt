@@ -1,0 +1,7 @@
+/home/wting/A_jianbin/v4l2_stream/src/v4l2_stream/cmake-build-debug/CMakeFiles/v4l2_stream_node.dir
+/home/wting/A_jianbin/v4l2_stream/src/v4l2_stream/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wting/A_jianbin/v4l2_stream/src/v4l2_stream/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wting/A_jianbin/v4l2_stream/src/v4l2_stream/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/wting/A_jianbin/v4l2_stream/src/v4l2_stream/cmake-build-debug/CMakeFiles/install.dir
+/home/wting/A_jianbin/v4l2_stream/src/v4l2_stream/cmake-build-debug/CMakeFiles/install/local.dir
+/home/wting/A_jianbin/v4l2_stream/src/v4l2_stream/cmake-build-debug/CMakeFiles/install/strip.dir
